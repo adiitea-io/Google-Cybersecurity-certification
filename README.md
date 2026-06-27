@@ -24,10 +24,10 @@ This repository documents my progress through the Google Cybersecurity Professio
 
 ## 📂 Course Progress
 
-- [x] Course 1 – Foundations of Cybersecurity [verify](https://coursera.org/share/8deefdd1e95cc3c359e64768a1bdb827)
+- [x] Course 1 – [Foundations of Cybersecurity](https://coursera.org/share/8deefdd1e95cc3c359e64768a1bdb827)
 
-- [x] Course 2 – Play It Safe
-- [x] Course 3 – Connect and Protect
+- [x] Course 2 – [Play It Safe](https://coursera.org/share/4d677b931ff59033e84bfbe6a38fb898)
+- [x] Course 3 – [Connect and Protect](https://coursera.org/share/f3fdb789a58f69a59408090c934305dc) 
 - [ ] Course 4 – Tools of the Trade: Linux & SQL
 - [ ] Course 5 – Assets, Threats & Vulnerabilities
 - [ ] Course 6 – Sound the Alarm
