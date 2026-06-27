@@ -34,10 +34,10 @@ This repository documents my progress through the Google Cybersecurity Professio
 - [ ] Course 8 – Put It to Work
 
 ---
-
 ## 🎯 Goal
 To build a strong foundation in cybersecurity by combining structured learning with 
 hands-on practice and documenting that journey.
+
 
 
 hands-on practice and documenting that journey publicly.
